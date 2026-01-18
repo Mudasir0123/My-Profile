@@ -1,0 +1,8 @@
+{
+  "name": "Muhammad Mudasir - Professional Portfolio",
+  "description": "A sleek, modern, and interactive professional portfolio and CV application for Muhammad Mudasir, featuring an AI-powered resume assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
